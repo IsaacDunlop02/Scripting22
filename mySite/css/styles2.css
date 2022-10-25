@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background-color: lightgray;
+	color: white;
+}
+
+body #Intro {
+	background-color: gray;
+	color: red;
+	text-align: center;
+}
+
+body #Intro h1{
+	background-color: black;
+	height: 50px;
+	padding-top: 25px;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: darkred;
+}
+
+body #Quotes {
+	margin-left: 0px;
+	background-color: lightgray;
+}
+
+body #Quotes img {
+	float: left;
+	padding-right: 25px;
+}
+
+body #Friends {
+	padding-bottom: 10px;
+}
+
+body #Footer {
+	text-align: center;
+}
+
+a:link {
+	color: darkred;
+}
+
+a:visited {
+	color: orangered;
+}
+
+a:hover {
+	color: orangered;
+}
+
+a:active {
+	color: aquamarine;
+}
+
+body {
+	font-family: 'Oswald', sans-serif;
+	color: #2e2e2e;
+}

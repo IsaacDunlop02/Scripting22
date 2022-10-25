@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+body h1 {
+	text-align: center;
+	color: orangered;
+	font-size: 52px;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: darkred;
+}
+
+h4 {
+	color: orangered;
+}
+
+body .align-left {
+	text-align: left;
+}
+
+body .align-center {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+body #self-portrait {
+	width: 300px;
+}
+
+body .navbar {
+	background-color: gray;
+}
+
+a:hover {
+	color: orangered;
+	text-decoration: underline;
+}
+
+a:link {
+	color:orangered;
+	background-color: transparent;
+}
+
+body {
+	font-family: 'Oswald', sans-serif;
+	color: black;
+	background-color: white;
+}
+
+body p {
+	font-size: 18px;
+}
+
+hr.solid {
+	border-top: 3px solid #bbb;
+}
